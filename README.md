@@ -1,4 +1,4 @@
-# Real-time-SuperCollider-course
+# Real-time SuperCollider course
 
 This repository contains code from the real-time computer music class that I taught at the University of Washington in 2015 and 2016.
 
